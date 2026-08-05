@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/DivyaAnilaP/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/DivyaAnilaP/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sorting
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/DivyaAnilaP/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Math
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/DivyaAnilaP/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/DivyaAnilaP/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
