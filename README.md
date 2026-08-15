@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaAnilaP/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaAnilaP/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/DivyaAnilaP/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/DivyaAnilaP/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaAnilaP/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaAnilaP/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
